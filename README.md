@@ -1,4 +1,5 @@
 # Frontend Mentor - Interactive rating component
+## [Click Here!](https://halilerkantarci.github.io/interactive-rating-component-main/)
 
 ![Design preview for the Interactive rating component coding challenge](./design/desktop-preview.jpg)
 
